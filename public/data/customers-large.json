@@ -1,0 +1,91 @@
+
+{
+    "data": [
+    {
+        "logDate": "12/15/2020",
+        "patientName":"last, first",
+        "patientCode": "10000021",
+        "appointmentId": "104311223",
+        "practiceCode":"1043244",
+        "callType": "0",
+        "callDuration": "00:00:01",
+        "callStartTime": "03:24 PM",
+        "callEndTime": "03:25 PM",
+        "callError":"Nill"
+    },
+    {
+        "logDate": "11/21/2020",
+        "patientName":"bahi, kashi",
+        "patientCode": "10000021",
+        "appointmentId": "104311223",
+        "practiceCode":"1043244",
+        "callType": "0",
+        "callDuration": "00:00:01",
+        "callStartTime": "03:24 PM",
+        "callEndTime": "03:25 PM",
+        "callError":"Nill"
+    },
+    {
+        "logDate": "01/16/2021",
+        "patientName":"shah, sultan",
+        "patientCode": "212",
+        "appointmentId": "10431",
+        "practiceCode":"1001",
+        "callType": "0",
+        "callDuration": "00:00:01",
+        "callStartTime": "03:24 PM",
+        "callEndTime": "03:25 PM",
+        "callError":"Nill"
+    },
+    {
+        "logDate": "08/22/2019",
+        "patientName":"khan, baba",
+        "patientCode": "10000021",
+        "appointmentId": "104311223",
+        "practiceCode":"1043244",
+        "callType": "0",
+        "callDuration": "00:00:01",
+        "callStartTime": "03:24 PM",
+        "callEndTime": "03:25 PM",
+        "callError":"Nill"
+    },
+    {
+        "logDate": "03/09/2020",
+        "patientName":"sapari,zafar",
+        "patientCode": "10000021",
+        "appointmentId": "104311223",
+        "practiceCode":"1043244",
+        "callType": "0",
+        "callDuration": "00:00:01",
+        "callStartTime": "03:24 PM",
+        "callEndTime": "03:25 PM",
+        "callError":"Nill"
+    },
+    {
+        "logDate": "05/20/2018",
+        "patientName":"khokhar, taji",
+        "patientCode": "10000021",
+        "appointmentId": "104311223",
+        "practiceCode":"1043244",
+        "callType": "0",
+        "callDuration": "00:00:01",
+        "callStartTime": "03:24 PM",
+        "callEndTime": "03:25 PM",
+        "callError":"Nill"
+    },
+    {
+        "logDate": "01/16/2021",
+        "patientName":"baba, khan",
+        "patientCode": "252",
+        "appointmentId": "3223",
+        "practiceCode":"1010",
+        "callType": "0",
+        "callDuration": "00:00:01",
+        "callStartTime": "03:24 PM",
+        "callEndTime": "03:25 PM",
+        "callError":"Nill"
+    }
+    
+    ]
+}
+    
